@@ -1,2 +1,1 @@
-# Java-SimpleRPC
-Simple RPC written with Java
+# Java实现的简易RPC
